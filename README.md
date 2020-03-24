@@ -1,6 +1,6 @@
-## NmapRunner
+# NmapRunner
 
-# Usage
+## Usage
 
 ```
 python3 nmaprunner.py nikto
