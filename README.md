@@ -1,3 +1,7 @@
 ## NmapRunner
 
-allo
+# Usage
+
+```
+python3 nmaprunner.py nikto
+```
